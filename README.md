@@ -14,3 +14,22 @@
 8. DFS, BFS 활용
 9. Greedy Algorithm
 10. dynamic programming(동적계획법)
+<br></br>
+
+## • BAEKJOON
+
+#### &nbsp; BAEKJOON ID: [shlish](https://www.acmicpc.net/user/shlish)
+
+* 문제 표기법  
+  -> 문제 티어 + 문제 번호
+```
+Bronze    =  b
+Silver    =  s
+Gold      =  g
+Platinum  =  p
+Diamond   =  d
+Ruby      =  r
+```
+* 예시 
+  * b1234  
+  -> Bronze 문제 1234번
